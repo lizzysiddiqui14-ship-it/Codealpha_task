@@ -1,13 +1,11 @@
 # Codealpha_task
 # Bake and Bite - Typography Task 3
 
-Typography Practice for **CodeAlpha Internship**.  
-Focus: Font pairing, hierarchy, spacing, alignment.  
-Goal: Create text designs for **Bake and Bite** bakery.
+**CodeAlpha Internship Task 3**  
+Typography practice focused on font pairing, hierarchy, spacing, and alignment to create impactful text designs for **Bake and Bite** bakery.
 
-## Tool
-Canva
+**Tool:** Adobe Illustrator  
 
-## File
-Typography_BakeAndBite.pdf
+**File:** Typography_BakeAndBite.pdf
+
 
