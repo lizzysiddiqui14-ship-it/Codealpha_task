@@ -12,7 +12,7 @@ This task focuses on creating a modern and user-friendly user interface design. 
 ### 🛠 Tool Used
 - Figma
 
-### 📂 File Included
+### 📂 Project File
 - ui design.pdf
 
 ### ✨ Key Highlights
@@ -30,7 +30,7 @@ This task focuses on typography principles including font selection, alignment, 
 ### 🛠 Tool Used
 - Adobe Illustrator
 
-### 📂 File Included
+### 📂 Project File
 - Typography task.pdf
 
 ### ✨ Key Highlights
