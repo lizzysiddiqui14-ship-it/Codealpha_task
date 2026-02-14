@@ -1,17 +1,40 @@
-# CodeAlpha UI Design Task
+# CodeAlpha Internship Tasks
 
-This repository contains my **UI Design task** completed as part of the **CodeAlpha Internship Program**.
+This repository contains the design tasks completed as part of my internship program.
 
-The design focuses on clean layout, proper spacing, and user-friendly visuals.
+---
 
-## 🛠️ Tool Used
-- Adobe Illustrator
+## 🎨 UI Design Task
 
-## 📂 Project File
+### 📌 Description
+This task focuses on creating a modern and user-friendly user interface design. The layout is designed with proper spacing, color balance, and visual hierarchy to ensure a clean and professional look.
+
+### 🛠 Tool Used
+- Figma
+
+### 📂 File Included
 - ui design.pdf
 
-## 🎯 Objective
-To practice UI design principles and fulfill the assigned task by CodeAlpha.
+### ✨ Key Highlights
+- Clean and modern layout
+- Proper alignment and spacing
+- User-focused design structure
 
-## 👩‍💻 Author
-Aliza Siddiqui.
+---
+
+## ✍ Typography Task
+
+### 📌 Description
+This task focuses on typography principles including font selection, alignment, spacing, and visual presentation to create an attractive and readable composition.
+
+### 🛠 Tool Used
+- Adobe Illustrator
+
+### 📂 File Included
+- Typography task.pdf
+
+### ✨ Key Highlights
+- Effective font pairing
+- Balanced composition
+- Clean and creative text styling
+
