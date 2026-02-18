@@ -39,6 +39,7 @@ This task focuses on typography principles including font selection, alignment, 
 - Clean and creative text styling
 
 🎨 Logo Design Task
+
 📌 Description
 This task involves creating a core brand identity for 'APEX' along with two creative variations. Each design is crafted to demonstrate how a single brand concept can adapt to different industries like Corporate, Logistics, and Real Estate.
 
